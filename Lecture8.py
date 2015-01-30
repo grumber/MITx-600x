@@ -56,3 +56,5 @@ def SimpleDivide(item, denom):
         return 0        
     return item / denom
       
+
+I need to re-study these functions
